@@ -1,0 +1,12 @@
+package Mobiles.samsung;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class mediaTek implements MobileProcessor {
+	public void process() {
+		System.out.println("Mediatake slowluy Processing ");
+		
+	}
+
+}

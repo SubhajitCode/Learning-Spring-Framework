@@ -1,0 +1,10 @@
+package Mobiles.samsung;
+
+public class Samsung {
+	
+	void call()
+	{
+		System.out.println("Calling samsung HQ");
+	}
+
+}

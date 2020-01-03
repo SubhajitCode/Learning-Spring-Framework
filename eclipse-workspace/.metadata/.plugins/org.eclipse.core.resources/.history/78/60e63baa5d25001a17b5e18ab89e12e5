@@ -1,0 +1,15 @@
+package subhajit.com.blog;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Tyre {
+	String brand;
+
+	@Override
+	public String toString() {
+		return "Tyre [ brand="+brand+"]";
+	}
+	
+
+}

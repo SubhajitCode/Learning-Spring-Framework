@@ -1,0 +1,21 @@
+package Mobiles.samsung;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+@Component
+public class Samsung {
+	@Autowired
+	@Qualifier("snapDragon")
+	MobileProcessor sd;
+	void call()
+	{
+		System.out.println("Calling samsung HQ");
+	}
+	void StartJob()
+	{
+		System.out.println("Start the job ...");
+		sd.process();
+	}
+
+}

@@ -1,0 +1,18 @@
+package Mobiles.samsung;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfig {
+//	@Bean
+//	Samsung getSamsung()
+//	{
+//		return new Samsung();
+//	}
+//	@Bean
+//	MobileProcessor getSnapDragon()
+//	{
+//		return new SnapDragon();
+//	}
+
+}

@@ -1,0 +1,10 @@
+package Mobiles.samsung;
+
+public class SnapDragon implements MobileProcessor{
+	
+	public void processs()
+	{
+		System.out.println("SnapDragon Processsing");
+	}
+
+}

@@ -1,0 +1,13 @@
+package Mobiles.samsung;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class Samsung {
+	@Autowired
+	MobileProcessor sd;
+	void call()
+	{
+		System.out.println("Calling samsung HQ");
+	}
+
+}

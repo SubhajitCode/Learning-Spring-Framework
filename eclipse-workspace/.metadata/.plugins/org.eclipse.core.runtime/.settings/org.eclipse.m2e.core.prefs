@@ -1,0 +1,7 @@
+eclipse.m2.WorkspacelifecycleMappingsLocation=/home/subhajit/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+eclipse.m2.defaultRuntime=EMBEDDED
+eclipse.m2.runtimes=bin
+eclipse.m2.runtimesNodes/bin/location=/usr/share/maven
+eclipse.m2.runtimesNodes/bin/type=EXTERNAL
+eclipse.m2.userSettingsFile=/home/subhajit/.m2/settings.xml
+eclipse.preferences.version=1

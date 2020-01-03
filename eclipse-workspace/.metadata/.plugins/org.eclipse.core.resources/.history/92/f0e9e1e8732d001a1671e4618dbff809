@@ -1,0 +1,12 @@
+package Mobiles.samsung;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfig {
+	
+	 ApplicationContext factory = new AnnotationConfigApplicationContext(AppConfig.class)
+
+}

@@ -1,0 +1,142 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Title: controlfig.fig
+%%Creator: fig2dev Version 3.2.7a
+%%CreationDate: 2020-01-03 11:56:14
+%%BoundingBox: 0 0 566 339
+%%Magnification: 1.0000
+%%EndComments
+%%BeginProlog
+/$F2psDict 200 dict def
+$F2psDict begin
+$F2psDict /mtrx matrix put
+/col-1 {0 setgray} bind def
+/col0 {0.000 0.000 0.000 srgb} bind def
+/col7 {1.000 1.000 1.000 srgb} bind def
+/col32 {0.612 0.000 0.000 srgb} bind def
+/col33 {0.549 0.549 0.549 srgb} bind def
+/col34 {0.549 0.549 0.549 srgb} bind def
+/col35 {0.259 0.259 0.259 srgb} bind def
+/col36 {0.549 0.549 0.549 srgb} bind def
+/col37 {0.259 0.259 0.259 srgb} bind def
+/col38 {0.549 0.549 0.549 srgb} bind def
+/col39 {0.259 0.259 0.259 srgb} bind def
+/col40 {0.549 0.549 0.549 srgb} bind def
+/col41 {0.259 0.259 0.259 srgb} bind def
+/col42 {0.549 0.549 0.549 srgb} bind def
+/col43 {0.259 0.259 0.259 srgb} bind def
+
+end
+
+/cp {closepath} bind def
+/ef {eofill} bind def
+/gr {grestore} bind def
+/gs {gsave} bind def
+/sa {save} bind def
+/rs {restore} bind def
+/l {lineto} bind def
+/rl {rlineto} bind def
+/m {moveto} bind def
+/rm {rmoveto} bind def
+/n {newpath} bind def
+/s {stroke} bind def
+/sh {show} bind def
+/slc {setlinecap} bind def
+/slj {setlinejoin} bind def
+/slw {setlinewidth} bind def
+/srgb {setrgbcolor} bind def
+/rot {rotate} bind def
+/sc {scale} bind def
+/sd {setdash} bind def
+/ff {findfont} bind def
+/sf {setfont} bind def
+/scf {scalefont} bind def
+/sw {stringwidth} bind def
+/tr {translate} bind def
+/tnt {dup dup currentrgbcolor
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add srgb}
+  bind def
+/shd {dup dup currentrgbcolor 4 -2 roll mul 4 -2 roll mul
+  4 -2 roll mul srgb} bind def
+/$F2psBegin {$F2psDict begin /$F2psEnteredState save def} def
+/$F2psEnd {$F2psEnteredState restore end} def
+
+/pageheader {
+sa
+n 0 339 m 0 0 l 566 0 l 566 339 l cp clip
+-192.0 355.1 tr
+1 -1 sc
+$F2psBegin
+10 setmiterlimit
+0 slj 0 slc
+ 0.06299 0.06299 sc
+} bind def
+/pagefooter {
+$F2psEnd
+restore
+} bind def
+%%EndProlog
+pageheader
+%
+% Fig objects follow
+%
+% 
+% here starts figure with depth 1001
+% Grid
+0.5 setgray
+gs 450 472 div dup scale
+% Vertical
+% Horizontal
+gr
+% here ends figure;
+% 
+% here starts figure with depth 100
+% Polyline
+0 slj
+0 slc
+7.500 slw
+n 6384 1460 m 6384 1888 l 7027 1745 l 6884 2103 l 7384 1674 l 6884 1245 l
+ 7027 1602 l
+ cp gs col7 1.00 shd ef gr gs col0 s gr % Polyline
+n 7335 645 m 7335 762 l 8190 762 l 8190 855 l 8775 696 l 8190 540 l
+ 8190 645 l
+ cp gs col7 1.00 shd ef gr gs col0 s gr % Polyline
+n 7335 5100 m 7335 5217 l 8190 5217 l 8190 5310 l 8775 5151 l 8190 4995 l
+ 8190 5100 l
+ cp gs col7 1.00 shd ef gr gs col0 s gr % Polyline
+n 7335 3120 m 7335 3237 l 8190 3237 l 8190 3330 l 8775 3171 l 8190 3015 l
+ 8190 3120 l
+ cp gs col7 1.00 shd ef gr gs col0 s gr % here ends figure;
+% 
+% here starts figure with depth 50
+% Polyline
+0 slj
+0 slc
+7.500 slw
+n 3060 990 m 6345 990 l 6345 2250 l 3060 2250 l
+ cp gs col0 s gr % Polyline
+n 7335 540 m
+ 7335 5355 l gs col0 s gr % Polyline
+n 8775 4320 m 11925 4320 l 11925 5625 l 8775 5625 l
+ cp gs col0 s gr % Polyline
+n 8775 2340 m 11880 2340 l 11880 3600 l 8775 3600 l
+ cp gs col0 s gr % Polyline
+n 8775 270 m 12015 270 l 12015 1350 l 8775 1350 l
+ cp gs col0 s gr /Times-Roman ff 190.50 scf sf
+4185 1530 m
+gs 1 -1 sc (Dispatcher Servelet) col0 sh gr
+/Times-Roman ff 190.50 scf sf
+9675 5130 m
+gs 1 -1 sc (Controller Servelet 3) col0 sh gr
+/Times-Roman ff 190.50 scf sf
+9405 2970 m
+gs 1 -1 sc (Controller Servelet2) col0 sh gr
+/Times-Roman ff 190.50 scf sf
+9540 720 m
+gs 1 -1 sc (Controller Servelet1) col0 sh gr
+% here ends figure;
+pagefooter
+showpage
+%%Trailer
+%EOF

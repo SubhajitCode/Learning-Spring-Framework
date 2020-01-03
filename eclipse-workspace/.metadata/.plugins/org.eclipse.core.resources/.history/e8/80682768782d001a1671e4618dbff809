@@ -1,0 +1,9 @@
+package Mobiles.samsung;
+
+public class mediaTek implements MobileProcessor {
+	public void process() {
+		System.out.println("Mediatake slowluy Processing ");
+		
+	}
+
+}
